@@ -1,16 +1,8 @@
-# \# 🏪 TiendaMVC (Java + MySQL Workbench)
+## 🏪 TiendaMVC (Java + MySQL Workbench)
 
-# 
-
-# Este repositorio contiene un sistema de gestión de tienda desarrollado en Java, aplicando la arquitectura MVC (Modelo - Vista - Controlador) y conectado a una base de datos en MySQL Workbench.
-
-# 
-
-# Permite registrar, editar y eliminar clientes y productos, además de gestionar ventas mediante una interfaz gráfica creada con Swing. 🧾
-
-# 
-
-# ---
+Este repositorio contiene un sistema de gestión de tienda desarrollado en Java, aplicando la arquitectura MVC (Modelo - Vista - Controlador) y conectado a una base de datos en MySQL Workbench.
+Permite registrar, editar y eliminar clientes y productos, además de gestionar ventas mediante una interfaz gráfica creada con Swing. 🧾
+ ---
 
 # 
 
