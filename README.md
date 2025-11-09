@@ -21,9 +21,9 @@ Permite registrar, editar y eliminar clientes y productos, además de gestionar 
 - Gestión de clientes: registrar, editar y eliminar información.  
 - Gestión de productos: control de inventario y precios.  
 - Módulo de ventas: registrar ventas asociadas a clientes.  
-- 🗂 Arquitectura MVC: separación clara entre modelo, vista y controlador.  
-- 🖼️ Interfaz gráfica amigable creada con Swing.  
-- 🛢️ Conexión con MySQL Workbench para el almacenamiento de datos.  
+- Arquitectura MVC: separación clara entre modelo, vista y controlador.  
+- Interfaz gráfica amigable creada con Swing.  
+- Conexión con MySQL Workbench para el almacenamiento de datos.  
 
 
 ---
