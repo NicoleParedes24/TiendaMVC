@@ -52,7 +52,7 @@ Permite registrar, editar y eliminar clientes y productos, además de gestionar 
 
 
 
-# Desarrollado por Nicole Paredes Espín
+Desarrollado por Nicole Paredes Espín
 
 
 
